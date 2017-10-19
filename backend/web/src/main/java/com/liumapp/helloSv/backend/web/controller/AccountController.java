@@ -2,11 +2,6 @@ package com.liumapp.helloSv.backend.web.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
-import tk.springboot.simple.exceptions.BizException;
-import tk.springboot.simple.model.Account;
-import tk.springboot.simple.model.RespInfo;
-import tk.springboot.simple.service.AccountService;
-import tk.springboot.simple.util.Consts;
 
 /**
  * Created by liumapp on 10/19/17.
