@@ -44,7 +44,7 @@ mybatis:
     config-location: classpath:conf/mybatis-typehandler.xml
 
 mapper:
-    mappers:  tk.springboot.simple.util.MyMapper
+    mappers:  com.liumapp.helloSv.backend.web.uils.MyMapper
     not-empty: false
     identity: MYSQL
 
