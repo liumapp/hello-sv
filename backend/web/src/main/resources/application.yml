@@ -10,7 +10,7 @@ logging:
 spring:
     datasource:
         name: sv
-        url: jdbc:mysql://localhost:3306
+        url: jdbc:mysql://localhost:3306/sv
         username: root
         password: adminadmin
         # 使用druid数据源
