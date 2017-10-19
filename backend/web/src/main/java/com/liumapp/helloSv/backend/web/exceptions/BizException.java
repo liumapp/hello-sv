@@ -6,6 +6,7 @@ package com.liumapp.helloSv.backend.web.exceptions;
  * home-page:http://www.liumapp.com
  */
 public class BizException extends Exception {
+
     public BizException() {
     }
 
@@ -20,4 +21,5 @@ public class BizException extends Exception {
     public BizException(Throwable cause) {
         super(cause);
     }
+
 }
