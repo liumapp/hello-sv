@@ -1,4 +1,4 @@
-package com.liumapp.backend.web;
+package com.liumapp.helloSv.backend.web;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -10,7 +10,7 @@ import org.springframework.context.annotation.Import;
  * home-page:http://www.liumapp.com
  */
 @SpringBootApplication(scanBasePackages = {"com.liumapp"})
-@Import(com.liumapp.common.model.Main.class)
+@Import(com.liumapp.helloSv.common.Main.class)
 public class Main {
 
     public static void main(String[] args) {

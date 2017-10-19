@@ -1,6 +1,6 @@
-package com.liumapp.backend.web.controller;
+package com.liumapp.helloSv.backend.web.controller;
 
-import com.liumapp.common.model.entity.Guest;
+import com.liumapp.helloSv.common.entity.Guest;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
