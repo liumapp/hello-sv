@@ -1,6 +1,6 @@
-package com.liumapp.common.model;
+package com.liumapp.helloSv.common;
 
-import com.liumapp.common.model.entity.Guest;
+import com.liumapp.helloSv.common.entity.Guest;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 

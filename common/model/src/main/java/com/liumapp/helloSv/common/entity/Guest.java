@@ -1,4 +1,4 @@
-package com.liumapp.common.model.entity;
+package com.liumapp.helloSv.common.entity;
 
 import org.springframework.stereotype.Component;
 
