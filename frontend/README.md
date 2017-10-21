@@ -368,4 +368,3 @@ const  vue=new Vue({
 }).$mount('#app');</pre> 
 
 
-For detailed explanation on how things work, checkout the [guide](http://alreadygo.cn/zh/blog/?p=58),[template](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
