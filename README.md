@@ -16,5 +16,21 @@
 
 * file shall be upload to etc/uploadfiles
 
+## how to use
+
+* mvn install 
+
+* cd backend/web/target
+
+* java -jar web-1.0-SNAPSHOT.jar, this will start springboot .
+
+* cd frontend
+
+* npm install
+
+* npm run dev, this will start vue program.
+
+
+
 
 
