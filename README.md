@@ -6,7 +6,7 @@
 
 A simple project , which backend and frontend was separated . Backend was drived by springboot , and Frontend was drived by Vue2.0
 
-Aim to make group members understand how we make project in such a cool way.
+Aim to make group members understand how we make project in such a cool way
 
 ## frontend
 

@@ -216,7 +216,7 @@
                 then(body=>{
                     if(body.status==0 && body.content){
                         this.USER_SIGNIN(Object.assign(this.form,{password:'',timestamp}));
-				        this.$router.replace({ path: '/main/home' });
+                        this.$router.replace({ path: '/main/home' });
                     }else{
                         throw new Error("登录失败")
                     }
