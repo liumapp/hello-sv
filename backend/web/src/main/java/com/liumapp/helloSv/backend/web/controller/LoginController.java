@@ -37,7 +37,7 @@ public class LoginController extends GlobalController {
 
     @RequestMapping(value = "/pull/{key}")
     public RespInfo pull(@PathVariable String key) throws ExecutionException {
-
         return new RespInfo(Consts.SUCCESS_CODE, CacheUtil.getCache(key), null);
     }
+
 }
